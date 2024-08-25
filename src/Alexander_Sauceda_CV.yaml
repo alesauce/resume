@@ -1,0 +1,61 @@
+# yaml-language-server: $schema=https://github.com/sinaatalay/rendercv/blob/main/schema.json?raw=true
+cv:
+  name: Alexander Sauceda
+  location: Aurora, CO
+  email: alexander@alexandersauceda.dev
+  phone: "+17145046677"
+  website: https://alexandersauceda.dev/
+  social_networks:
+    - network: LinkedIn
+      username: alexander-matthew-sauceda
+    - network: GitHub
+      username: alesauce
+  sections:
+    experience:
+      - company: Amazon Photos
+        position: Systems Engineer II, Trust and Safety Engineering
+        location: Seattle, WA
+        start_date: 2021-08
+        end_date: "present"
+        highlights:
+          - Designed and currently implementing a Java-based service for abuse report automation and API for customer service systems; projected to reduce engineer time on manual operations by 8 hours/month.
+          - Overhauled legacy Python-based abuse reporting system to comply with new EU regulation, reducing process defects by ~89% YoY.
+          - Implemented Python-based tooling that utilized Photos microservice APIs to automate investigation of customer issues, which reduced engineer time on manual operations by 4 hours/month.
+          - Oversaw service operations, including CI/CD pipelines, CloudWatch monitors, resolving high-severity incidents and providing root cause analysis as part of team’s on-call rotation.
+      - company: Amazon Explore, Business Development
+        position: Support Engineer I
+        start_date: 2020-08
+        end_date: 2021-08
+        highlights:
+          - Designed and implemented new analytics tooling, enabling business development teams to proactively identify and correct poor customer experiences, resulting in a customer satisfaction score increase of ~4%.
+          - Developed a new onboarding guide for partners selling “experiences” and reduced onboarding time by 10% for new sellers.
+          - Investigated customer-facing issues and provided root-cause analysis to the software development team which resulted in a reduction of software-related defects from 9% to 1.5%.
+          - Developed a new org standard process for remediating seller connectivity issues.
+      - company: Amazon WW Fulfillment Supply Chain Execution
+        position: Program Manager II
+        start_date: 2019-06
+        end_date: 2020-08
+        highlights:
+          - Streamlined reporting process for fulfillment network fullness by leveraging SQL skills, which reduced manual bridging time by ~5 hours/week.
+          - Automated team reports using SQL, Excel, and AWS Quicksight, saving ~20 hours/month.
+      - company: Amazon NA Fulfillment
+        position: Manager II
+        start_date: 2016-06
+        end_date: 2019-06
+        highlights:
+          - Executed multiple projects to reconfigure racking, adding 70,933 cubic feet of storage and saving ~$1,053,940 compared to building new racking.
+          - Oversaw utilization and stow strategy, setting a new building inventory record with a 15.8% improvement, resulting in 110% storage utilization and ~$900,000 cost savings.
+          - Managed 120+ direct reports, promoting 34 associates into leadership roles and fostering career growth.
+    education:
+      - institution: University of Arizona
+        area: Information Sciences
+        degree: BS
+        start_date: 2012-08
+        end_date: 2016-05
+    skills:
+      - label: Technologies
+        details: SQL, Python, Typescript, Java, Nix, Bash/ZSH, Regular Expressions, Amazon-internal software build system, Excel (Index/Match, Pivots)
+      - label: Expertise
+        details: API-driven development, Data Analysis, Cross-Functional Alignment, Troubleshooting, Technical Writing, Management
+design:
+  theme: engineeringresumes
