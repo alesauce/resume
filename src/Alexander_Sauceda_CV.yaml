@@ -55,7 +55,5 @@ cv:
     skills:
       - label: Technologies
         details: AWS (Lambda, SQS, DynamoDB, CDK), Python, SQL, Java, Nix, Git version control, CI/CD pipelines, Amazon-internal software build system
-      - label: Expertise
-        details: API-driven software development, Data analysis, Software troubleshooting, Technical writing, Management
 design:
   theme: sb2nov
