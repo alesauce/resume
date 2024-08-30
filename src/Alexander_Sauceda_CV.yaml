@@ -12,19 +12,22 @@ cv:
       username: alesauce
   sections:
     summary:
-      - A dedicated and versatile backend developer looking to utilize API-driven development and backend software engineering skills learned through 8+ years with Amazon.
+      - A dedicated and versatile backend developer looking to utilize API-driven development, system architecture, and software engineering skills learned through 8+ years with Amazon.
     experience:
       - company: Amazon Photos, Trust & Safety Engineering
-        position: Systems & Software Engineer
         location: Seattle, WA
+        position: Systems & Software Engineer
         start_date: 2021-08
         end_date: "present"
         highlights:
-          - Designed and currently implementing a Java-based service for abuse report automation and API to integrate with customer service systems; projected to reduce engineer time on manual investigations by 10%.
-          - Overhauled legacy Python-based abuse reporting system to comply with new EU regulation, reducing process defects by ~89% YoY.
+          - Overhauled legacy Python codebase to comply with new regulations, reducing process defects by ~89% YoY.
+          - Designed and implemented new service to automate handling of customer account issues, reducing engineer hours spent on manual processes by 25%. Utilized Python, AWS Lambda, DynamoDB, and SQS as well as Cloud Development Kit (CDK) for infrastructure as code.
+          - Designed and currently implementing a new Java-based service for abuse report automation and API to integrate with customer service systems; projected to reduce engineer time on manual investigations by 10%.
+          - Earned AWS Certified Solutions Architect - Associate certification.
           - Oversaw service operations, including CI/CD pipelines, CloudWatch monitors, resolving high-severity incidents and providing root cause analysis as part of team’s on-call rotation.
           - Developed a new SQL-based process for investigating customer file issues, reducing mean time to resolution by 50%.
       - company: Amazon Explore, Business Development
+        location: Seattle, WA
         position: Support Engineer
         start_date: 2020-08
         end_date: 2021-08
@@ -33,8 +36,9 @@ cv:
           - Developed a new onboarding guide for partners selling “experiences” and reduced onboarding time by 10% for new sellers.
           - Investigated customer-facing issues and provided root-cause analysis to the software development team which resulted in a reduction of software-related defects from 9% to 1.5%.
           - Developed a new org standard process for remediating seller connectivity issues.
-      - company: Amazon WW Fulfillment Supply Chain Execution
-        position: Program Manager/Manager, Operations
+      - company: Amazon Fulfillment/Supply Chain Execution
+        location: Seattle, WA/Phoenix, AZ
+        position: Program Manager/Area Manager
         start_date: 2016-06
         end_date: 2020-08
         highlights:
@@ -50,8 +54,8 @@ cv:
         end_date: 2016-05
     skills:
       - label: Technologies
-        details: SQL, Python, Typescript, Java, Nix, Bash/ZSH, Regular Expressions, Amazon-internal software build system, Excel (Index/Match, Pivots)
+        details: AWS (Lambda, SQS, DynamoDB, CDK), Python, SQL, Java, Nix, Git version control, CI/CD pipelines, Amazon-internal software build system
       - label: Expertise
-        details: API-driven software development, Data Analysis, Cross-Functional Alignment, Software Troubleshooting, Technical Writing, Management
+        details: API-driven software development, Data analysis, Software troubleshooting, Technical writing, Management
 design:
-  theme: engineeringresumes
+  theme: sb2nov
