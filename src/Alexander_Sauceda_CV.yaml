@@ -54,6 +54,6 @@ cv:
         end_date: 2016-05
     skills:
       - label: Technologies
-        details: AWS (Lambda, SQS, DynamoDB, CDK), Python, SQL, Java, Nix, Git version control, CI/CD pipelines, Amazon-internal software build system
+        details: Python, Java, Nix, AWS (Lambda, SQS, DynamoDB, CDK), SQL, Git version control, CI/CD pipelines, Amazon-internal software build system, Ansible
 design:
   theme: sb2nov
