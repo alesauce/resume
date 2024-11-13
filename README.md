@@ -18,9 +18,9 @@ A dedicated and versatile backend developer looking to utilize API-driven develo
 
 - Aug 2021 – present
 - Seattle, WA
-- Overhauled legacy Python codebase to comply with new regulations, reducing process defects by ~89% YoY.
+- Designed and implemented a new Java-based service for abuse report automation and API to integrate with customer service systems reducing engineer time on manual investigations by 10%.
+- Overhauled legacy Python abuse reporting codebase to comply with new regulations, reducing process defects by ~89% YoY.
 - Designed and implemented new service to automate handling of customer account issues, reducing engineer hours spent on manual processes by 25%. Utilized Python, AWS Lambda, DynamoDB, and SQS as well as Cloud Development Kit (CDK) for infrastructure as code.
-- Designed and currently implementing a new Java-based service for abuse report automation and API to integrate with customer service systems; projected to reduce engineer time on manual investigations by 10%.
 - Earned AWS Certified Solutions Architect - Associate certification.
 - Oversaw service operations, including CI/CD pipelines, CloudWatch monitors, resolving high-severity incidents and providing root cause analysis as part of team’s on-call rotation.
 - Developed a new SQL-based process for investigating customer file issues, reducing mean time to resolution by 50%.
@@ -51,4 +51,4 @@ A dedicated and versatile backend developer looking to utilize API-driven develo
 
 # Skills
 
-- Technologies: Python, Java, Nix, AWS (Lambda, SQS, DynamoDB, CDK), SQL, Git version control, CI/CD pipelines, Amazon-internal software build system, Ansible
+- Technologies: Java, Python, AWS (Lambda, SQS, DynamoDB, CDK), SQL, Git version control, CI/CD pipelines, Amazon-internal software build system, Nix, Ansible
