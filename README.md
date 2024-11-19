@@ -23,7 +23,6 @@ A dedicated and versatile backend developer looking to utilize API-driven develo
 - Designed and implemented new service to automate handling of customer account issues, reducing engineer hours spent on manual processes by 25%. Utilized Python, AWS Lambda, DynamoDB, and SQS as well as Cloud Development Kit (CDK) for infrastructure as code.
 - Earned AWS Certified Solutions Architect - Associate certification.
 - Oversaw service operations, including CI/CD pipelines, CloudWatch monitors, resolving high-severity incidents and providing root cause analysis as part of team’s on-call rotation.
-- Developed a new SQL-based process for investigating customer file issues, reducing mean time to resolution by 50%.
 
 ## Amazon Explore, Business Development, Support Engineer
 
@@ -51,4 +50,4 @@ A dedicated and versatile backend developer looking to utilize API-driven develo
 
 # Skills
 
-- Technologies: Java, Gradle, Python, AWS (Lambda, SQS, DynamoDB, CDK), SQL, Git version control, CI/CD pipelines, Amazon-internal software build system, Nix, Ansible
+- Technologies: Java, Gradle, Python, AWS (Lambda, SQS, DynamoDB, CDK), SQL, Git, CI/CD pipelines, Nix, Ansible
