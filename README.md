@@ -51,4 +51,4 @@ A dedicated and versatile backend developer looking to utilize API-driven develo
 
 # Skills
 
-- Technologies: Java, Python, AWS (Lambda, SQS, DynamoDB, CDK), SQL, Git version control, CI/CD pipelines, Amazon-internal software build system, Nix, Ansible
+- Technologies: Java, Gradle, Python, AWS (Lambda, SQS, DynamoDB, CDK), SQL, Git version control, CI/CD pipelines, Amazon-internal software build system, Nix, Ansible
