@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://github.com/sinaatalay/rendercv/blob/main/schema.json?raw=true
 cv:
   name: Alexander Sauceda
-  location: Aurora, CO
+  location: Parker, CO
   email: alexander@alexandersauceda.dev
   phone: "+17145046677"
   website: https://alexandersauceda.dev/
