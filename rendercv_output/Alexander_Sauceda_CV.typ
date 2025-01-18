@@ -515,7 +515,7 @@
 )
 #one-col-entry(
   content: [
-    #v(design-highlights-top-margin);#highlights([Streamlined reporting process for fulfillment network fullness by leveraging SQL skills, which reduced manual bridging time by \~5 hours/week.],[Automated team reports using SQL, Excel, and AWS Quicksight, saving \~20 hours/month.],[Executed multiple projects to reconfigure racking, adding 70,933 cubic feet of storage and saving \~\$1,053,940 compared to building new racking.],[Oversaw utilization and stow strategy, setting a new building inventory record with a 15.8\% improvement, resulting in 110\% storage utilization and \~\\\$900,000 cost savings.],)
+    #v(design-highlights-top-margin);#highlights([Streamlined reporting process for fulfillment network fullness by leveraging SQL skills, which reduced manual bridging time by \~5 hours/week.],[Automated team reports using SQL, Excel, and AWS Quicksight, saving \~20 hours/month.],[Executed multiple projects to reconfigure racking, adding 70,933 cubic feet of storage and saving \~\$1,053,940 compared to building new racking.],[Oversaw utilization and stow strategy, setting a new building inventory record with a 15.8\% improvement, resulting in 110\% storage utilization and \~\$900,000 cost savings.],)
   ],
 )
 
