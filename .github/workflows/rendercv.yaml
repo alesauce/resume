@@ -21,6 +21,10 @@ jobs:
       - name: Install RenderCV
         run: |
           pip install -r requirements.txt
+      - name: Install font-awesome
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y fonts-font-awesome
       - name: RenderCV
         run: |
           cd src
