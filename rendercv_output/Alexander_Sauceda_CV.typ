@@ -477,7 +477,7 @@
 )
 #one-col-entry(
   content: [
-    #v(design-highlights-top-margin);#highlights([Designed and implemented a new Java-based abuse reporting service to ensure compliance with the European Union's Digital Services Act, preventing fines of up to 6\% of Amazon.com's global turnover \(\~\\\$34.5 billion\). In the process, reduced process defects from legacy abuse reporting service by \~89\% YoY.],[Designed and implemented new service to automate handling of customer account issues, reducing engineer hours spent on manual processes by 25\%. Utilized Python, AWS Lambda, DynamoDB, and SQS as well as Cloud Development Kit \(CDK\) for infrastructure as code.],[Earned AWS Certified Solutions Architect - Associate certification.],[Oversaw service operations, including CI/CD pipelines, CloudWatch monitors, resolving high-severity incidents and providing root cause analysis as part of team’s on-call rotation.],)
+    #v(design-highlights-top-margin);#highlights([Designed and implemented a new Java-based abuse reporting service to ensure compliance with the European Union's Digital Services Act, preventing fines of up to 6\% of Amazon.com's global turnover \(\~\$34.5 billion\). In the process, reduced process defects from legacy abuse reporting service by \~89\% YoY.],[Designed and implemented new service to automate handling of customer account issues, reducing engineer hours spent on manual processes by 25\%. Utilized Python, AWS Lambda, DynamoDB, and SQS as well as Cloud Development Kit \(CDK\) for infrastructure as code.],[Earned AWS Certified Solutions Architect - Associate certification.],[Oversaw service operations, including CI/CD pipelines, CloudWatch monitors, resolving high-severity incidents and providing root cause analysis as part of team’s on-call rotation.],)
   ],
 )
 
@@ -515,7 +515,7 @@
 )
 #one-col-entry(
   content: [
-    #v(design-highlights-top-margin);#highlights([Streamlined reporting process for fulfillment network fullness by leveraging SQL skills, which reduced manual bridging time by \~5 hours/week.],[Automated team reports using SQL, Excel, and AWS Quicksight, saving \~20 hours/month.],[Executed multiple projects to reconfigure racking, adding 70,933 cubic feet of storage and saving \~\\\$1,053,940 compared to building new racking.],[Oversaw utilization and stow strategy, setting a new building inventory record with a 15.8\% improvement, resulting in 110\% storage utilization and \~\\\$900,000 cost savings.],)
+    #v(design-highlights-top-margin);#highlights([Streamlined reporting process for fulfillment network fullness by leveraging SQL skills, which reduced manual bridging time by \~5 hours/week.],[Automated team reports using SQL, Excel, and AWS Quicksight, saving \~20 hours/month.],[Executed multiple projects to reconfigure racking, adding 70,933 cubic feet of storage and saving \~\$1,053,940 compared to building new racking.],[Oversaw utilization and stow strategy, setting a new building inventory record with a 15.8\% improvement, resulting in 110\% storage utilization and \~\\\$900,000 cost savings.],)
   ],
 )
 
