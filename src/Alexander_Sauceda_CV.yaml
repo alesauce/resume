@@ -55,3 +55,7 @@ cv:
         details: Java, Gradle, Dagger dependency-injection framework, Python, AWS (Lambda, SQS, DynamoDB, CDK), SQL, Git, CI/CD pipelines, Nix, Ansible
 design:
   theme: sb2nov
+rendercv_settings:
+  date: "2025-01-07"
+  render_command:
+    output_folder_name: rendercv_output
