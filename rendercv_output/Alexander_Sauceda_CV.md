@@ -18,7 +18,7 @@ A dedicated and versatile backend developer looking to utilize API-driven develo
 
 - Aug 2021 – present
 - Seattle, WA
-- Designed and implemented a new Java-based abuse reporting service to ensure compliance with the European Union's Digital Services Act, preventing fines of up to 6% of Amazon.com's global turnover (~$34.5 billion). In the process, reduced process defects from legacy abuse reporting service by ~89% YoY.
+- Designed and implemented a new Java-based abuse reporting service to ensure compliance with the European Union's Digital Services Act, preventing fines of up to 6% of Amazon.com's global turnover (~$34.5 billion). Reduced process defects from legacy abuse reporting service by ~89% YoY.
 - Designed and implemented new service to automate handling of customer account issues, reducing engineer hours spent on manual processes by 25%. Utilized Python, AWS Lambda, DynamoDB, and SQS as well as Cloud Development Kit (CDK) for infrastructure as code.
 - Earned AWS Certified Solutions Architect - Associate certification.
 - Oversaw service operations, including CI/CD pipelines, CloudWatch monitors, resolving high-severity incidents and providing root cause analysis as part of team’s on-call rotation.
