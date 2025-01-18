@@ -2,7 +2,7 @@
 
 - Phone: +1 714 504 6677
 - Email: [alexander@alexandersauceda.dev](mailto:alexander@alexandersauceda.dev)
-- Location: Aurora, CO
+- Location: Parker, CO
 - Website: [alexandersauceda.dev](https://alexandersauceda.dev/)
 - LinkedIn: [alexander-matthew-sauceda](https://linkedin.com/in/alexander-matthew-sauceda)
 - GitHub: [alesauce](https://github.com/alesauce)

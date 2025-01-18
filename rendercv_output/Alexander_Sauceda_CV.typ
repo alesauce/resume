@@ -443,7 +443,7 @@
 
 // Print connections:
 #let connections-list = (
-  [#fa-icon("location-dot", size: 0.9em) #h(0.05cm)Aurora, CO],
+  [#fa-icon("location-dot", size: 0.9em) #h(0.05cm)Parker, CO],
   [#box(original-link("mailto:alexander@alexandersauceda.dev")[#fa-icon("envelope", size: 0.9em) #h(0.05cm)alexander\@alexandersauceda.dev])],
   [#box(original-link("tel:+1-714-504-6677")[#fa-icon("phone", size: 0.9em) #h(0.05cm)\(714\) 504-6677])],
   [#box(original-link("https://alexandersauceda.dev/")[#fa-icon("link", size: 0.9em) #h(0.05cm)alexandersauceda.dev])],
