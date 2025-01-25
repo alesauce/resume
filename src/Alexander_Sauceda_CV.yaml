@@ -52,7 +52,7 @@ cv:
         end_date: 2016-05
     skills:
       - label: Technologies
-        details: Java, Gradle, Dagger dependency-injection framework, Python, AWS (Lambda, SQS, DynamoDB, CDK), SQL, Git, CI/CD pipelines, Nix, Ansible
+        details: Java, Gradle, Dagger dependency-injection framework, Python, AWS (Lambda, SQS, DynamoDB, CDK), Typescript, Kotlin, SQL, Git, CI/CD pipelines, Nix
 design:
   theme: sb2nov
 rendercv_settings:
