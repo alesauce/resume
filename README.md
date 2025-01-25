@@ -49,4 +49,4 @@ A dedicated and versatile backend developer looking to utilize API-driven develo
 
 # Skills
 
-- Technologies: Java, Gradle, Dagger dependency-injection framework, Python, AWS (Lambda, SQS, DynamoDB, CDK), SQL, Git, CI/CD pipelines, Nix, Ansible
+- Technologies: Java, Gradle, Dagger dependency-injection framework, Python, AWS (Lambda, SQS, DynamoDB, CDK), Typescript, Kotlin, SQL, Git, CI/CD pipelines, Nix

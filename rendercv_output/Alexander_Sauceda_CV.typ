@@ -550,7 +550,7 @@
 == Skills
 
 #one-col-entry(
-  content: [#[*Technologies:*] Java, Gradle, Dagger dependency-injection framework, Python, AWS \(Lambda, SQS, DynamoDB, CDK\), SQL, Git, CI/CD pipelines, Nix, Ansible]
+  content: [#[*Technologies:*] Java, Gradle, Dagger dependency-injection framework, Python, AWS \(Lambda, SQS, DynamoDB, CDK\), Typescript, Kotlin, SQL, Git, CI/CD pipelines, Nix]
 )
 
 
